@@ -1,0 +1,53 @@
+{
+  "profile": {
+    "name": "Isiaka Sulaiman",
+    "title": "Computer Engineering Student (500 Level)",
+    "university": "Ahmadu Bello University, Zaria",
+    "email": "sulaimanisiaka80@gmail.com",
+    "phone": "(081) 002-6245",
+    "linkedin": "https://www.linkedin.com/in/isiakasulaiman"
+  },
+  "skills": [
+    { "id": "skill-001", "name": "Digital Operations & Workflow Management", "category": "operations" },
+    { "id": "skill-002", "name": "Business Development", "category": "operations" },
+    { "id": "skill-003", "name": "Investor Research & Outreach", "category": "operations" },
+    { "id": "skill-004", "name": "CRM & Pipeline Management", "category": "operations" },
+    { "id": "skill-005", "name": "Fundraising Operations", "category": "operations" },
+    { "id": "skill-006", "name": "Market & Competitive Research", "category": "research" },
+    { "id": "skill-007", "name": "Partnership & Stakeholder Management", "category": "operations" },
+    { "id": "skill-008", "name": "Strategic Communications", "category": "operations" },
+    { "id": "skill-009", "name": "Process Documentation & SOP Creation", "category": "operations" },
+    { "id": "skill-010", "name": "Notion", "category": "tool" },
+    { "id": "skill-011", "name": "Airtable", "category": "tool" },
+    { "id": "skill-012", "name": "Google Workspace", "category": "tool" },
+    { "id": "skill-013", "name": "Microsoft Excel", "category": "tool" }
+  ],
+  "projects": [
+    {
+      "id": "proj-001",
+      "title": "Localized Gas Leakage Detection System",
+      "category": "embedded",
+      "description": "Designed and simulated a non-IoT gas detection system for households and students using an Arduino Uno, MQ-2 gas sensor, and buzzer."
+    },
+    {
+      "id": "proj-002",
+      "title": "Digital Twin Dashboard for Gold Mining",
+      "category": "dashboard",
+      "description": "Designed a digital twin dashboard concept for gold mining operations, covering site overview, sales tracking, and investor-facing reporting views.",
+      "screenshots": [
+        "assets/images/proj-overview.jpg",
+        "assets/images/proj-mining-site.jpg",
+        "assets/images/proj-gold-sales.jpg",
+        "assets/images/proj-investors-dashboard.jpg",
+        "assets/images/proj-report.jpg",
+        "assets/images/proj-welcome-page.jpg",
+        "assets/images/proj-sections.jpg",
+        "assets/images/proj-drop-menu.jpg",
+        "assets/images/proj-app-profile-screen.jpg"
+      ]
+    }
+  ],
+  "education": [
+    { "id": "edu-001", "level": "Tertiary", "institution": "Ahmadu Bello University, Zaria, Nigeria", "status": "In Progress, 500 Level", "detail": "B.Eng. Computer Engineering" }
+  ]
+}
